@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+
+<html lang="no">
+    <meta charset="UTF-8">
+    <head>
+        <title>Nett Butikk</title>
+
+     
+        
+    </head>
+    <body>
+        <header>
+            <nav>
+
+                <button class="button success">Vis Handle vågn</button>
+
+                <button class="button" onclick="visAlleVarer()">Vis Alle varer</button>
+               
+                <button class="button" onclick="visSkjorter()">Vis Skjorter</button>
+               
+                <button class="button warning">Tøm handlekvågnen</button>
+
+                <button class="button success" onclick="visBukser()">Vis Bukser</button>
+               
+                <input id="sokefelt" type="text">
+            </nav>
+
+        </header>
+        <main></main>
+     
+        
+
+        
+        
+        <script>
+            //eg fekk ikkje fierbasen til og fungere for meg så eg lagde så eg har ikkje script delen nede som burde vera her så dette er ein veldig liten kode
+        
+        </script>
+        
+        
+    </body>
+</html>
